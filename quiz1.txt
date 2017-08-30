@@ -1,0 +1,18 @@
+  1.The SQL verb to get information out of a database is SELECT.
+	EX: SELECT * FROM transactions;
+
+  2. The SQL verb to change value in a row is UPDATE.
+
+  3. UDPATE world SET language='English' WHERE country='countryx'
+
+  4. The SQL verb to add rows to a table is INSERT
+
+  5. INSERT INTO world (country, continet, population, area, gdp, language)
+	VALUES ('Trumplandia', 'America', 1, 1000000, 9999999999, 'tremendous');
+
+  6. WHERE
+
+  7. SELECT country FROM world
+	WHERE population <= 10000000;
+
+  
